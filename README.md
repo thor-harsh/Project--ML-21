@@ -13,7 +13,7 @@ Principal component analysis (PCA) is a popular technique for analyzing large da
  **For First Plot**: <br></br>
 1.Reading the csv file as DataFrame<br></br>
 2.Creating the PCA object with 3 main components.<br></br>
-3.Making a 3d plot on that without any filtering,Standardization or any data preprocessing steps.
+3.Making a 3d plot on that without any filtering,Standardization or any data preprocessing steps.<br></br>
 
 
  **For Second Plot**: <br></br>
