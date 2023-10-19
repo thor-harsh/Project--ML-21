@@ -25,7 +25,7 @@ Principal component analysis (PCA) is a popular technique for analyzing large da
 5. Making a 3d plot.<br></br>
 
 
-**Important Note:** Please go through the dataset once before jumping to the code.
+**Important Note:**  Please go through the dataset once before jumping to the code.
   
 </table>
 
