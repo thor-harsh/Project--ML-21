@@ -22,7 +22,7 @@ Principal component analysis (PCA) is a popular technique for analyzing large da
 3. Standard Scaling<br></br>
 4. Splitting the data into training and testing set<br></br>
 5. Creating the PCA object with 3 main components.<br></br>
-5. Making a 3d plot<br></br>
+5. Making a 3d plot.<br></br>
 
 
 **Important Note:** Please go through the dataset once before jumping to the code.
