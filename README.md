@@ -3,7 +3,7 @@
 
 <table>
 
-**In this project we have applied PCA (Principal Component Analysis) on Fashion MNIST dataset to get the best 3 principal components and thus reducing it from higher dimensions to lower dimensions and plotting a 3d plot of that.**
+**In this project we have applied PCA (Principal Component Analysis) on Fashion MNIST dataset to get the best 3 principal components and thus reducing it from higher dimensions to lower dimensions and plotting a 3d plot of that with training and testing set as two labels.**
 
 Principal component analysis (PCA) is a popular technique for analyzing large datasets containing a high number of dimensions/features per observation, increasing the interpretability of data while preserving the maximum amount of information, and enabling the visualization of multidimensional data.
 
